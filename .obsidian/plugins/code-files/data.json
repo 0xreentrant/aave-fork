@@ -1,0 +1,23 @@
+{
+  "extensions": [
+    "mmd",
+    "ts",
+    "tsx",
+    "js",
+    "jsx",
+    "json",
+    "html",
+    "py",
+    "sol",
+    "yml",
+    "toml",
+    "yaml",
+    "sarif",
+    "txt"
+  ],
+  "folding": true,
+  "lineNumbers": true,
+  "minimap": true,
+  "semanticValidation": true,
+  "syntaxValidation": true
+}

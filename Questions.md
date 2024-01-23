@@ -1,0 +1,2 @@
+- Why pyth price feeds and not chainlink? Lack of early support?
+- How is the pyth feed model different from chainlink's? Is it similar enough to allow for a simple adapter or will it need something more complex?
