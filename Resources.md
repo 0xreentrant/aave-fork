@@ -6,6 +6,8 @@ Docs:
 Code:
 - https://github.com/aave/protocol-v2
 - https://github.com/aave/interface
+Setting up local envs:
+- `aave/protocol-v2`:  [[Deploying Locally]]
 ## Pyth
 - https://pyth.network/
 - https://docs.pyth.network/documentation
