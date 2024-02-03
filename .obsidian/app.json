@@ -7,7 +7,7 @@
   "useTab": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "useMarkdownLinks": false,
+  "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./__media",
   "tabSize": 4,
