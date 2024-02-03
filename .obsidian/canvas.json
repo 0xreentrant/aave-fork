@@ -1,8 +1,0 @@
-{
-  "snapToObjects": true,
-  "snapToGrid": true,
-  "zoomBreakpoint": 1.35,
-  "defaultModDragBehavior": "menu",
-  "newFileLocation": "current",
-  "cardLabelVisibility": "hover"
-}
